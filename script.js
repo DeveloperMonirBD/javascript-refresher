@@ -1,4 +1,4 @@
-// ** Part-01-lexical scoping:
+// ** lexical scoping:
 // // var lang = "Javascript"
 // var lang = "bangla";
 
