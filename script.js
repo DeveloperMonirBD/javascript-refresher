@@ -12,7 +12,7 @@
 
 // console.log(`I know ${lang}`);
 
-// ** part-02-function:
+// ** function:
 // ** regular function:
 // function hello() {
 //     console.log(("Hello world"))
